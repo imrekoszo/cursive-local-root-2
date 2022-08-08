@@ -1,0 +1,5 @@
+{:deps
+ {clr2/alpha {:local/root "./alpha"}
+  clr2/beta {:local/root "./beta"}
+  clr2/gamma {:local/root "./gamma"}
+  clr2/sigma {:local/root "./sigma"}}}
